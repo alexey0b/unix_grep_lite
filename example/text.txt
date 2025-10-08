@@ -1,0 +1,13 @@
+hello
+world
+test
+pattern
+line1
+line2
+line3
+Hello
+WORLD
+Test
+Other
+test.txt
+other.txt
