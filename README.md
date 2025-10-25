@@ -150,3 +150,9 @@ make test
 make lint 
 
 ```
+
+**Справочная информация:**
+
+- [Официальная документация GNU cut](https://www.gnu.org/software/grep/manual/grep.html)
+
+---
